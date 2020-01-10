@@ -4,4 +4,4 @@ const createTeam = require("./lib/createTeam");
 const team = new createTeam;
 
 //begin running the code that will prompt and create subsequent team members
-team.start();
+team.start()
